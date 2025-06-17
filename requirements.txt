@@ -1,4 +1,4 @@
-pandas==2.3.0
-streamlit==1.45.1
-plotly_express==6.1.2
-nbformat ==5.10.4
+pandas 
+streamlit
+plotly
+nbformat
